@@ -1,0 +1,125 @@
+
+/*EMPIEZA HOME*/
+
+
+
+.BODYBACK{ background-image: url(./CARROUSEL.jpg);
+
+    background-repeat: no-repeat;
+
+    background-attachment: fixed;
+
+
+    background-size: cover;}
+
+ 
+
+
+  .TEXT1 {font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+     color: wheat;
+
+     text-align: center;
+    
+     font-size: 26px;
+
+     background-color: rgba(46, 88, 90, 0.527);}
+
+    .botoncontacto {color: bisque; 
+    
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+
+     .botonvideos{ color: bisque;   
+       
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+
+     
+
+
+     .PITORRO { font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+        
+        font-size: 38px; 
+        
+        color: bisque;  
+      
+        text-align: center;
+    
+        margin-top: 8%;
+    
+        background-color:rgba(46, 88, 90, 0.527) ;}
+
+
+        .atr{ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;  color: bisque; font-size: 36px; text-align: center; margin-top: 7%;}
+
+
+
+        .TITULOX{ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; color: bisque;font-size: 45px; text-align: center; }
+
+.vectorcitoT{ color: bisque; height: 45px; width: 45px; margin-top: -0,6%;  margin-left: 1%;}
+
+
+/*FIN HOME*/
+
+
+/*EMPIEZA CONTACTO*/
+
+
+/*header*/
+
+.fondocontact{background-image:url(./contactoimg.jpg);}
+
+
+.perro { background-color: rgba(255, 228, 196, 0.445);}
+
+
+
+
+.holii{ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; }
+
+
+
+.flor { color: black; margin-left: 80%;}
+
+/*fin header*/
+
+
+/*section*/
+
+.cumpa { font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; background-color: rgba(255, 228, 196, 0.575); text-align: center; font-size: 30px; }
+
+.colorfont{ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; color: bisque; text-align: center; margin-top: 4%; font-size: 26px;}
+
+.julio{  margin-top: 6%;   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; font-size: 22px;  background-color: rgba(255, 228, 196, 0.521);}
+
+
+.botonesdecontacto{ margin-top: 6%; text-align:center;  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;  }
+
+
+.botonF{ color: bisque; margin-right: 1%;}
+
+.botonI{ color: bisque; }
+
+.botonT{ color: bisque; margin-left: 1%;}
+
+/*Fin section*/
+
+
+/*footer*/
+
+
+.gun { font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; background-color: rgba(255, 228, 196, 0.562); color: black;  margin-top: 8%;}
+
+/*fin footer*/
+
+/*fin contacto*/
+
+
+/*videos*/
+
+/*header*/
+
+
+
+
+
+       
